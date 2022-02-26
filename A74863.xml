@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The VVonder of our times: being a true and exact relation of the body of a mighty giant dig'd up at Brockford Bridge neer Ipswich in Suffolk, this present November 1651. his height 10, foot. his head as big as half a bushell; with a description of severall parts of his body, and manner of his interring. Certified in a letter from a gentleman in the country, to his brother (a merchant) in London.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74863</idno>
+            <idno type="STC">Wing G29</idno>
+            <idno type="STC">Thomason E646_3</idno>
+            <idno type="STC">ESTC R208749</idno>
+            <idno type="EEBO-CITATION">99867670</idno>
+            <idno type="PROQUEST">99867670</idno>
+            <idno type="VID">165990</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74863)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165990)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 99:E646[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The VVonder of our times: being a true and exact relation of the body of a mighty giant dig'd up at Brockford Bridge neer Ipswich in Suffolk, this present November 1651. his height 10, foot. his head as big as half a bushell; with a description of severall parts of his body, and manner of his interring. Certified in a letter from a gentleman in the country, to his brother (a merchant) in London.</title>
+                  <author>I. G.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R. Austin, for W. Ley, at Paul's Chain,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed and dated at end: I. G. Novemb 3. 1651.</note>
+                  <note>Annotation on Thomason copy: "Nouemb. 18".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Giants --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165990:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 43 -->
+            <p>The Wonder of our times: BEING A true and exact Relation of the Body of a mighty Giant dig'd up at <hi>Brock ford</hi> Bridge neer <hi>Ipſwich</hi> in <hi>Suffolk,</hi> this preſent <hi>Novem<g ref="char:EOLhyphen"/>ber</hi> 1651. his height 10. foot, his Head as big as half a buſhell; with a de<g ref="char:EOLhyphen"/>ſcription of the ſeverall parts of his body, and manner of his interring.</p>
+            <p>Certified in a Letter from a Gentleman in the Country, to his Brother (a merchant) in <hi>London.</hi>
+            </p>
+            <figure/>
+            <p>
+               <hi>London:</hi> Printed by <hi>R. Auſtin,</hi> for <hi>W. Ley,</hi> at PAUL's Chain. 1651.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:165990:2"/>
+            <!-- PDF PAGE 44 -->
+            <pb n="1" facs="tcp:165990:2"/>
+            <!-- PDF PAGE 44 -->
+            <p>TO write of wonders in this Age, is a thing moſt men look after: but before I give you a Declaration of the wonder of this Age, let us compare it with ſome former ages, and we ſhal be convinced of the truth of this our relation. We read of ſundry Giants that inhabited this Iſle of <hi>Great Britain,</hi> many mighty men of ſtature, eſpecially in the North, where men moſt commonly are of greateſt ſtature, as <hi>Starcater, Hart<g ref="char:EOLhyphen"/>ben, Angrin, Arverode,</hi> of whom <hi>Saxo Iohannes magus Olaus magnus</hi> makes mention, whoſe bones do yet remain to be ſeen as rare miracles of nature; ſome of theſe in their life time were able to lift up a veſſell of liquor of a thouſand weight, or an horſe, or an oxe, and caſt it on their ſhoulders; their very wo<g ref="char:EOLhyphen"/>men, ſome of them, have come ſomewhat neere them in ſtrength of body; ſome of theſe lived in the time of <hi>Olaus, An<g ref="char:EOLhyphen"/>no</hi> 1500. we read of <hi>Corineus</hi> and <hi>Gogmagot,</hi> whom ſome re<g ref="char:EOLhyphen"/>port to be King of this Iſle, who fought a combat hand to hand till one of them was ſlain; <hi>Hanvill</hi> in his <hi>Architrenion</hi> makes the later to be eighteen foot hight; <hi>Corineus</hi> the Dane enjoyed <hi>Cornwall</hi> upon the Conqueſt. Be pleas'd to look back and reflect on the Scripture, 1 <hi>Sam.</hi> 17.5. &amp;c. we find <hi>Goli<g ref="char:EOLhyphen"/>ab</hi> the Philiſtine whom <hi>David</hi> entountred, to be above nifie foot in height, whoſe ſhirt of male of weight 1250. ounces of braſſe, which is, 104. pound, and of <hi>Og</hi> the King of <hi>Baſan,
+<pb n="2" facs="tcp:165990:3"/>
+                  <!-- PDF PAGE 45 -->
+Deut.</hi> 3. who was the laſt of the race of Giants that was left in the Land of Promiſe to be overcome of the Iſraelites, whoſe iron bed was ſhewed for a wonder at <hi>Rabbah,</hi> a City of the Ammonites, containing nine cubits; although they were in the beginning of the world, yet we have had thoſe of later times, that have have parallel'd them: to come down to Chri<g ref="char:EOLhyphen"/>ſtian Writers, if we will believe S. <hi>Auſtin</hi> in <hi>Civitate Dei, Lib.</hi> 15. <hi>Cap.</hi> 9. how he ſaw the tooth of a man as big as a hun<g ref="char:EOLhyphen"/>dred of his own: and <hi>Iohannes Bocate</hi> in his 68. <hi>Cap.</hi> 4. Book, ſaith that in the Cave of a mountain not far from <hi>Drepanum</hi> a Town of <hi>Sicily,</hi> called <hi>Erix,</hi> the body of an exceeding high Giant was diſcovered, three of whoſe teeth did weigh an hundred ounces, which is eight pound and four ounces: he ſaith moreover, the forepart of his ſcull was able to containe many buſhells of wheat, and by the proportion of his thigh, his body was judged to be two hundred cubits high: this mi<g ref="char:EOLhyphen"/>racle of nature is yet to be ſeen in the Church of <hi>Drepanum</hi> in <hi>Sicily</hi> in perpetuall memory of his greatneſſe: his body was found upon this occaſion as ſome were going to dig, to lay the foundation of an houſe, the miners found a great vault, they found the body of a mighty man ſitting in a Cave, of whoſe greatneſſe they were ſore afraid, they ran away and made an outcry in the City, how there ſate a man in ſuch a place as great as an hill, the people hearing this news ran out with clubs and ſtaves as if to fight a battel; and three hundred entring the Cave they forthwith ſaw he was dead, and yet ſate as if he had been alive, having a ſtaff in his hand, compa<g ref="char:EOLhyphen"/>red by mine Author to the maſt of a Ship, which being touched fell to duſt with his body, ſaving three teeth, and part of his ſcull, and one of his thigh-bones.</p>
+            <p>There was a carkaſſe laid bare in the year 1170. in <hi>England</hi> upon the ſhore, where the beating of the ſhore had waſhed a<g ref="char:EOLhyphen"/>way
+<pb n="3" facs="tcp:165990:3"/>
+               <!-- PDF PAGE 45 -->
+the earth from the ſtone wherein it lay, and when it was taken up, it contained fifteen foot in length, as our Chroni<g ref="char:EOLhyphen"/>cles and Records affirm, and <hi>Iohannes Leland Maſieus Lib.</hi> 14. <hi>Trivet.</hi>
+            </p>
+            <p>At Perth at this day in <hi>Scotland</hi> the skeleton of a man is to be ſeen, call'd <hi>Iohn per Antiphraſin,</hi> being fourteen foot in length, which divers affirm that have beheld the ſame, and (as <hi>Hector Boetius</hi> ſaith) he did put his whole arm into one of his hanch bones.</p>
+            <p>Sir <hi>Thomas Eliot</hi> reports, a carkaſſe was taken up at <hi>Ivy</hi> Church neer <hi>Salisbury</hi> almoſt fourteen foot long.</p>
+            <p>
+               <hi>Grafton</hi> reports of one whoſe ſhin-bone conteined ſix foot, his ſcull ſo great it contained five pecks of wheat, and by conſequence his body muſt needs be twenty four foot long.</p>
+            <p>
+               <hi>Goropius</hi> reports of a Giant in <hi>Brabant,</hi> whoſe bones were ſeventeen or eighteen cubits in length.</p>
+            <p>
+               <hi>Gervaſius Tilbirienſis</hi> Head-marſhall to the King of <hi>Arles,</hi> reports in his Chronicle, that at <hi>Iſoricum</hi> in the Suburbs of <hi>Paris,</hi> he ſaw the body of a man that was twenty foot long, beſides the head and the neck which was miſſing, and not found; the owner perhaps might be beheaded for ſome nota<g ref="char:EOLhyphen"/>ble treſpaſſe committed in times paſt.</p>
+            <p>
+               <hi>Leland in Com. Brit.</hi> reports that in <hi>Whitton</hi> Pariſh, not far from the Chappell of the Moore, ſix miles by <hi>Eaſt</hi> from <hi>Car<g ref="char:EOLhyphen"/>liſle,</hi> a coffin was found, and therein the bones of a man of in<g ref="char:EOLhyphen"/>credible greatneſſe.</p>
+            <p>The Greek Writers make mention of <hi>Andronicus</hi> the Em<g ref="char:EOLhyphen"/>peror, who lived 1183. and was ten foot in height, that is three foot higher then the Kings great Porter.</p>
+            <p>Thus have I deduced from the beginning of the world, as neer as I can, thoſe memorable Giants, or mighty tall men, and thoſe no fables, but proved from good authority.</p>
+            <pb n="4" facs="tcp:165990:4"/>
+            <!-- PDF PAGE 46 -->
+            <p>Some will by no means believe that there were in former eimes any ſuch things as Giants, but ſuch their erroneous opi<g ref="char:EOLhyphen"/>nions will be apparently confuted in the following relation, which for truth hath the confirmation of ſome hundreds of eye-witneſſes, as you may read in the letter inſuing.</p>
+            <pb n="5" facs="tcp:165990:4"/>
+            <!-- PDF PAGE 46 -->
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <salute>Loving Brother,</salute>
+                  </opener>
+                  <p>I Though it worthy my writing to you, what this other day was diſcovered to many here, the like of which few of our Predeceſſors have ſeen. For here, neer the place of your Nativity, at <hi>Brockford</hi> Bridge, at the end of the ſtreet towards <hi>Ipſwich,</hi> by the gravelly way, between the <hi>Lands lace</hi> (our coſen <hi>Rivets</hi>) <hi>Iohn Vice</hi> and another were digging gra<g ref="char:EOLhyphen"/>vell in the Rode, and a little within the earth found the car<g ref="char:EOLhyphen"/>caſe of a <hi>Giant</hi> (for ſo I think I may term him) for from the top of his <hi>ſcull</hi> to the bottom of the bones of his <hi>feet</hi> was <hi>ten foot of Aſsize,</hi> and overthwart his <hi>brest,</hi> from the ultimate of one ſhoulder to the other, as he lay interred, and before ſtir<g ref="char:EOLhyphen"/>ring, was <hi>four foot.</hi> His <hi>ſcull</hi> of the bigneſſe neer of an <hi>half buſhell;</hi> the circumference of one of his <hi>thigh bones</hi> of the big<g ref="char:EOLhyphen"/>neſſe of a <hi>middle ſized womans waſt,</hi> the neither <hi>Iaw-bone</hi> had in it firmly fixed ſixteen teeth of an extraordinary bigneſſe; the other none.</p>
+                  <p>When the finding of this <hi>wonder of men</hi> in our time, was noiſed abroad, many of the people of the <hi>adjacent Towns</hi> re<g ref="char:EOLhyphen"/>ſorted to ſee it, and divers out of more <hi>folly,</hi> I think, then <hi>d<gap reason="illegible: missing" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſ<g ref="char:EOLhyphen"/>cretion,</hi> broke the <hi>Skeleton</hi> to gain part, or ſmall pieces of the <hi>bones,</hi> to brag they had part of him. Severall are the opinions of men in judging what time this man lived; ſome th<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nk him to be a <hi>Dane,</hi> others imagine he might belong to <hi>Prince Au<g ref="char:EOLhyphen"/>thur;</hi> but for my part, I ſhall ſuſpend my judgement, and leave it to wiſer men: only thus much I think I may ſay, that there hath not lived ſuch a man in <hi>England</hi> this <hi>hundred years:</hi> his <hi>head</hi> lay neer a <hi>quarter of a yard</hi> lower then his <hi>feet,</hi> and the <hi>ſuperficies of the earth</hi> was worn down within neer an handfull
+<pb n="6" facs="tcp:165990:5"/>
+                     <!-- PDF PAGE 47 -->
+of his <hi>ſhin bones.</hi> He was buried <hi>North</hi> and <hi>South,</hi> his <hi>head</hi> to <hi>Ipſwich</hi>-ward, and his <hi>feet</hi> towards <hi>Norwich.</hi>
+                  </p>
+                  <p>It may be you may ſay, I might have employed my time better then in troubling you with this matter, but I aſſure you of the truth of this, and the wonder of the thing com<g ref="char:EOLhyphen"/>manded me to impart thus much unto you.</p>
+                  <closer>
+                     <signed>Your loving brothert, <hi>I.G.</hi>
+                     </signed>
+                     <date>Novemb. 3. 1651.</date>
+                  </closer>
+               </body>
+            </floatingText>
+            <figure/>
+         </div>
+      </body>
+   </text>
+</TEI>
